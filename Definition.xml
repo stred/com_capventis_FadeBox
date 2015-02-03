@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="Capventis Fade Box" Description="Clickable object to cause a QlikView object to show-hide">
+<Text Label="ID of the Object" Initial="" Expression="CT99"/>
+<Text Label="HTML for Show" Initial="" Expression="&lt;p&gt;◄◄&lt;/p&gt;"/>
+<Text Label="HTML for Hide" Initial="" Expression="&lt;p&gt;►►&lt;/p&gt;"/>
+<Text Label="Fade from (right,left,up,down)" Initial="" Expression="right"/>
+<Text Label="Transition Speed" Initial="" Expression="333"/>
+</ExtensionObject>
